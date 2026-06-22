@@ -32,7 +32,7 @@ I am currently training at 1337 (UM6P) with a strong focus on systems programmin
 
 ## Goals & Learning Trajectory (Next 6 Months)
 
-* **Languages:** Expanding my foundation to include **C++** and **Go**.
+* **Languages:** Expanding my foundation to include **Rust** and **Go**.
 * **Infrastructure:** Initiating my learning path into SRE methodologies, containerization, and system monitoring tools.
 * **Open Source:** Preparing for **GSoC 2027** by exploring and understanding the architecture of major open-source infrastructure projects.
 
